@@ -11,9 +11,10 @@ https://keitakobe.github.io/Calender/
 
 # 機能
 表示している月のカレンダーを表示。
-
+・前月へのボタンを押すとで1ヶ月前のカレンダーを表示
+・次月へのボタンを押すとで1ヶ月後のカレンダーを表示
 
 # 使用技術
 | Category	 | Technology Stack |
 | ---- | ---- |
-| Frontend | html  , css |
+| Frontend | html, css, javascript |
