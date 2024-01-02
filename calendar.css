@@ -1,0 +1,16 @@
+div.calendar2 table tr th:first-child {
+  color: red;
+}
+
+th:last-child {
+  color: royalblue;
+}
+
+
+div.calendar2 table tr td:first-child {
+  color: red;
+}
+
+td:last-child {
+  color: royalblue;
+}
